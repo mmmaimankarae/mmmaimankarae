@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://giphy.com/search/programmer-stickers" width="100"/>
-</div>
+<div class="tenor-gif-embed" data-postid="24040429" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">Xero Code Sticker</a>from <a href="https://tenor.com/search/xero-stickers">Xero Stickers</a>
+</div> 
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!--
 **mmmaimankarae/mmmaimankarae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
