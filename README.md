@@ -49,11 +49,11 @@
 
 ---
 
-👩🏻‍💻 About me:
+### 👩🏻‍💻 About me:
 
 - 📚 I'm studying in Computer Science, KMITL.
 - 🌱 I’m currently learning Full Stack and Data Science.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmaimankarae&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmaimankarae&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
