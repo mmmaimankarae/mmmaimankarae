@@ -17,6 +17,7 @@
   <a href="https://drive.google.com/drive/folders/1QhMaim2NBe6rhVTTHMqiLLjCFMAQeVFg?usp=drive_link">
     <img src="https://img.shields.io/badge/Certificate-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
   </a>
+  <br>
 </div>
 
 ---
@@ -33,6 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask"  alt="Flask" width="40" height="40"/>&nbsp;
   <br>
   <br>
@@ -51,10 +53,7 @@
 
 - 📚 I'm studying in Computer Science, KMITL.
 - 🌱 I’m currently learning Full Stack and Data Science.
-- 💬 Ask me about my challenge.
-- 📫 How to reach me: Facebook.
 
 ---
 
-🔮 Status: 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmaimankarae&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
