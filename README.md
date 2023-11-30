@@ -56,4 +56,8 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmaimankarae&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+> [!NOTE] 
+> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mmmaimankarae&theme=dark&background=000000)](https://git.io/streak-stats)
+
+> [!IMPORTANT]
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmaimankarae&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
