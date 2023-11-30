@@ -47,9 +47,14 @@
 
 ---
 
-Here are some ideas to get you started:
+👩🏻‍💻 About me:
 
 - 📚 I'm studying in Computer Science, KMITL.
 - 🌱 I’m currently learning Full Stack and Data Science.
 - 💬 Ask me about my challenge.
 - 📫 How to reach me: Facebook.
+
+---
+
+🔮 Status: 
+
